@@ -131,3 +131,5 @@ dist
     Blog
     About
 
+# Keep docker-compose.override.yml the hell out of Github because I put my PaaS credentials there
+docker-compose.override.yml
